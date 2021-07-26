@@ -5,10 +5,6 @@ user-agent, 网易云音乐**, 🙈 网易云音乐
 user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*, 🙈 网易云音乐
 user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**, 🙈 网易云音乐
 
-user-agent, Spotify*, YouTube
-user-agent, Spotify**, YouTube
-host-suffix,spotify.com,YouTube
-
 
 host-suffix,music.163.com,🙈 网易云音乐
 host-suffix,interface.music.163.com,🙈 网易云音乐
